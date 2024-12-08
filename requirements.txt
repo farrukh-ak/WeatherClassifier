@@ -1,5 +1,6 @@
 tensorflow
 fastapi
+uvicorn
 numpy
 pandas
 matplotlib
